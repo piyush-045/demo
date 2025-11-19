@@ -1,3 +1,3 @@
 # demo
 this is my first repository
-my name is piyush
+my name is piyush chitroda
